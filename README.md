@@ -2,6 +2,8 @@
 WORKING:
 All the senors and module required for this project have been names in the "circuit.jpg" file.
 First of all if a Person comes in front of the "Ultrasonic Sensor" the Raspberry Pi recieves the information and prepares the "MLX Temperature Sensor" to sense the temperature of the person in front of ultrasonic sensor as the MLX sensor will be palced above the Ultrsonic Sensor then there arise two condition:
+
+
 First Condition:
   if the temperature is within the range of normal person's temperature the "Submersible 5volt motor will be turned on and sanitizer will come out of the tube after sanitization 
     Pi Camera will turn ON, take a snaphot of the person's face and with deep learnig model predits whether person is wearing a Mask or not. If Mask in ON then door will open for 
