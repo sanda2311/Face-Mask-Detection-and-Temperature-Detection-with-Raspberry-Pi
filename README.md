@@ -17,4 +17,4 @@ Folder named face_detector has two files named "deploy.prototxt" and "res10_300x
 Make connection according to the schematic given in "circuit.jpg" file.
 After doing all these things run the "program.py" file from terminal and enjoy.
 
-################################################################Happpy Programming#################################################################################################
+#################################Happpy Programming#############################################
