@@ -20,4 +20,4 @@ And a file name "mask_detector.model" also needs to be loaded by entering the pa
 Make connection according to the schematic given in "circuit.jpg" file.
 After doing all these things run the "program.py" file from terminal and enjoy.
 
-#################################Happpy Programming#############################################
+
