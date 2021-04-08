@@ -16,6 +16,7 @@ First of all if a Person comes in front of the "Ultrasonic Sensor" the Raspberry
 First of all dump OS into the Raspberry Pi and then import necesary packages into your Raspberry Pi: Python, Tensorflow, Numpy, Open CV, GPIO package
 The actual working code lies inside the program.py file.
 Folder named face_detector has two files named "deploy.prototxt" and "res10_300x300_ssd_iter_140000.caffemodel" that need to be loaded inide "program.py".
+And a file name "mask_detector.model" also needs to be loaded by entering the path of file into the "program.py" file  which is a pre-trained model detecting whether the person is wearing mask or not.
 Make connection according to the schematic given in "circuit.jpg" file.
 After doing all these things run the "program.py" file from terminal and enjoy.
 
